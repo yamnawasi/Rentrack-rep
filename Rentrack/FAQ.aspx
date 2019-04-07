@@ -7,7 +7,7 @@
     <style>
 
 		 #maindiv {
-            flex-direction: column;
+            
             padding: 0px;
             margin: 0px;
             height:100%;
